@@ -1,0 +1,5 @@
+{
+	"mapsApiKey": "AIzaSyBJtod2fiPOBHJxeZ6KGbUQ5QDLrSfwCpw",
+	"databaseURL": "https://pedicab-tracker.firebaseio.com",
+	"simulation": true
+}
